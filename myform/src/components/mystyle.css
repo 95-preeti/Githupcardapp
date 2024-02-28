@@ -1,0 +1,28 @@
+.primary {
+    color: orange;
+}
+
+.heading {
+    background-color: blue;
+    color: white;
+}
+.heading:hover {
+    background-color: rgb(34, 22, 162);
+    color: white;
+    transform: scale(1.1);
+    
+}
+
+
+
+.name {
+    color: blueviolet;
+}
+
+.company {
+    color: chocolate;
+}
+
+.followers {
+    color: crimson;
+}
